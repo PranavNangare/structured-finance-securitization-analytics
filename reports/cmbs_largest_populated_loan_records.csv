@@ -1,0 +1,90 @@
+deal_name,asset_number,originator_name,origination_date,maturity_date,original_loan_amount,original_interest_rate,ending_actual_balance,interest_only_indicator,balloon_indicator,payment_status_code
+benchmark_2025_v18,1,"German American Capital Corporation, Barclays Capital Real Estate Inc.",2025-09-30,2030-10-06,80000000.0,0.05,80000000.0,true,true,A
+benchmark_2025_v18,2,German American Capital Corporation,2025-09-23,2030-10-06,62000000.0,0.0654,62000000.0,true,true,A
+benchmark_2025_v18,3,German American Capital Corporation,2025-07-29,2030-08-06,60000000.0,0.05333,60000000.0,true,true,0
+benchmark_2025_v18,4,German American Capital Corporation,2025-09-22,2030-10-06,57785000.0,0.0682,57785000.0,true,true,A
+benchmark_2025_v18,5,Goldman Sachs Bank USA,2025-09-30,2030-08-06,56440000.0,0.06525,56440000.0,true,true,A
+benchmark_2025_v18,6,DBR Investments Co. Limited,2025-09-04,2030-09-06,55110000.0,0.06353,55110000.0,true,true,0
+benchmark_2025_v18,7,Citi Real Estate Funding Inc.,2025-10-01,2030-10-06,54500000.0,0.0573,54500000.0,true,true,A
+benchmark_2025_v18,8,Citi Real Estate Funding Inc.,2025-09-25,2030-10-06,53000000.0,0.0656,53000000.0,false,true,A
+benchmark_2025_v18,11,Citi Real Estate Funding Inc.,2025-09-30,2030-10-06,50000000.0,0.0654,50000000.0,true,true,A
+benchmark_2025_v18,10,DBR Investments Co. Limited,2025-09-30,2030-10-06,50000000.0,0.06414,50000000.0,true,true,A
+benchmark_2025_v18,9,Citi Real Estate Funding Inc.,2025-09-30,2030-10-06,50000000.0,0.0697,50000000.0,true,true,A
+benchmark_2025_v18,12,"LMF Commercial, LLC",2025-09-08,2030-09-06,44000000.0,0.0649,44000000.0,true,true,0
+benchmark_2025_v18,13,Goldman Sachs Bank USA,2025-09-30,2030-10-06,43000000.0,0.05933,43000000.0,true,true,A
+benchmark_2025_v18,14,Citi Real Estate Funding Inc.,2025-09-12,2030-10-06,42000000.0,0.0713,42000000.0,true,true,A
+benchmark_2025_v18,15,DBR Investments Co. Limited,2025-09-24,2030-10-06,41600000.0,0.06262,41600000.0,true,true,A
+benchmark_2025_v18,16,Citi Real Estate Funding Inc.,2025-09-05,2030-09-11,31650000.0,0.073,31650000.0,true,true,0
+benchmark_2025_v18,17,Goldman Sachs Bank USA,2025-10-01,2030-10-06,30000000.0,0.06736,30000000.0,true,true,A
+benchmark_2025_v18,18,Citi Real Estate Funding Inc.,2025-10-01,2030-10-06,30000000.0,0.0699,30000000.0,true,true,A
+benchmark_2025_v18,19,Greystone Select Company II LLC,2024-12-13,2030-01-06,29000000.0,0.07077,29000000.0,true,true,0
+benchmark_2025_v18,20,"Deutsche Bank AG, acting through its New York Branch",2025-05-16,2030-06-06,27500000.0,0.0649,27500000.0,true,true,0
+benchmark_2025_v18,21,"Goldman Sachs Bank USA, Barclays Capital Real Estate Inc.",2025-06-20,2030-07-06,25000000.0,0.07115,25000000.0,true,true,0
+benchmark_2025_v18,22,Citi Real Estate Funding Inc.,2025-09-19,2030-10-06,24000000.0,0.0665,24000000.0,true,true,A
+benchmark_2025_v18,23,DBR Investments Co. Limited,2025-09-09,2030-10-06,24000000.0,0.0665,24000000.0,true,true,A
+benchmark_2025_v18,24,Goldman Sachs Bank USA,2025-09-04,2030-09-06,22500000.0,0.06302,22500000.0,true,true,0
+benchmark_2025_v18,25,DBR Investments Co. Limited,2025-09-18,2030-10-06,22500000.0,0.0671,22500000.0,true,true,A
+benchmark_2025_v18,26,Goldman Sachs Bank USA,2025-09-24,2030-10-06,22000000.0,0.06745,22000000.0,false,true,A
+benchmark_2025_v18,27,Goldman Sachs Bank USA,2025-09-30,2030-10-06,21000000.0,0.06447,21000000.0,true,true,A
+benchmark_2025_v18,28,Bank of Montreal,2025-09-18,2030-10-06,17800000.0,0.061544,17800000.0,true,true,A
+benchmark_2025_v18,29,Citi Real Estate Funding Inc.,2025-09-30,2030-10-06,17500000.0,0.0649,17500000.0,true,true,A
+benchmark_2025_v18,30,Goldman Sachs Bank USA,2025-08-06,2030-08-06,16566300.0,0.07613,16566300.0,true,true,0
+benchmark_2025_v18,31,Goldman Sachs Bank USA,2025-08-06,2030-08-06,15650000.0,0.07613,15650000.0,true,true,0
+benchmark_2025_v18,32,Barclays Capital Real Estate Inc.,2025-09-30,2030-10-06,13040000.0,0.065,13040000.0,true,true,A
+benchmark_2025_v18,33,Citi Real Estate Funding Inc.,2025-09-04,2030-09-06,11800000.0,0.0635,11800000.0,true,true,0
+benchmark_2025_v18,34,Citi Real Estate Funding Inc.,2025-08-20,2030-09-06,11700000.0,0.0668,11700000.0,true,true,0
+benchmark_2025_v18,35,Goldman Sachs Bank USA,2025-08-06,2030-08-06,11420000.0,0.07215,11420000.0,true,true,0
+benchmark_2025_v18,36,Citi Real Estate Funding Inc.,2025-09-30,2030-10-06,10500000.0,0.0604,10500000.0,true,true,A
+benchmark_2025_v18,37,Goldman Sachs Bank USA,2025-09-22,2030-10-06,10000000.0,0.06746,10000000.0,true,true,A
+benchmark_2025_v18,38,Citi Real Estate Funding Inc.,2025-09-30,2030-10-06,9750000.0,0.0739,9750000.0,true,true,A
+benchmark_2025_v18,39,Citi Real Estate Funding Inc.,2025-09-18,2030-10-06,9600000.0,0.0677,9600000.0,true,true,A
+benchmark_2025_v18,40,DBR Investments Co. Limited,2025-09-19,2030-10-06,9400000.0,0.06559,9400000.0,true,true,A
+benchmark_2025_v18,41,Citi Real Estate Funding Inc.,2025-09-26,2030-10-06,8940000.0,0.0707,8940000.0,true,true,A
+benchmark_2025_v18,42,DBR Investments Co. Limited,2025-08-07,2030-09-06,7000000.0,0.06741,7000000.0,true,true,0
+benchmark_2025_v18,43,Citi Real Estate Funding Inc.,2025-09-29,2030-10-06,6350000.0,0.0669,6350000.0,true,true,A
+benchmark_2025_v18,44,DBR Investments Co. Limited,2025-09-18,2030-10-06,5887500.0,0.06905,5887500.0,true,true,A
+benchmark_2025_v18,45,German American Capital Corporation,2025-08-08,2030-09-06,5750000.0,0.07348,5750000.0,true,true,0
+benchmark_2025_v18,46,Citi Real Estate Funding Inc.,2025-08-28,2030-09-06,5100000.0,0.0656,5100000.0,true,true,0
+benchmark_2025_v18,47,Citi Real Estate Funding Inc.,2025-09-16,2030-10-06,4100000.0,0.0609,4100000.0,true,true,A
+gs_2018_gs10,1,Goldman Sachs Mortgage Company,2018-05-07,,75150000.0,0.0411,,true,true,
+gs_2018_gs10,2,Goldman Sachs Mortgage Company,2018-02-23,2025-03-06,65250000.0,0.033769,65250000.0,true,true,4
+gs_2018_gs10,3,Goldman Sachs Bank USA,2018-03-29,2028-04-06,63000000.0,0.035193,63000000.0,true,true,0
+gs_2018_gs10,4,Goldman Sachs Mortgage Company,2018-04-11,2028-05-06,49000000.0,0.03986,49000000.0,true,true,0
+gs_2018_gs10,7,Goldman Sachs Mortgage Company,2018-03-02,2028-03-06,40023500.0,0.04524,34344200.0,true,true,0
+gs_2018_gs10,8,Goldman Sachs Mortgage Company,2018-06-25,2028-07-06,35000000.0,0.048475,33362600.0,true,true,0
+gs_2018_gs10,9,Goldman Sachs Mortgage Company,2018-04-11,2028-05-06,33750000.0,0.046235,30790500.0,true,true,0
+gs_2018_gs10,10,Goldman Sachs Mortgage Company,2018-05-11,2028-06-06,33475000.0,0.04282,33475000.0,true,true,0
+gs_2018_gs10,6,Goldman Sachs Mortgage Company,2018-06-20,2028-07-06,32671700.0,0.049405,36337400.0,true,true,0
+gs_2018_gs10,11,Goldman Sachs Mortgage Company,2017-12-07,2033-01-06,27500000.0,0.035595,27500000.0,true,true,0
+gs_2018_gs10,12,Goldman Sachs Mortgage Company,2018-05-04,2028-05-06,26000000.0,0.04744,22215300.0,false,true,0
+gs_2018_gs10,13,Goldman Sachs Mortgage Company,2018-06-05,2028-06-06,25590000.0,0.04711,21888300.0,false,true,0
+gs_2018_gs10,14,Goldman Sachs Mortgage Company,2018-05-31,2028-06-06,25000000.0,0.046085,25000000.0,true,true,0
+gs_2018_gs10,15,Goldman Sachs Mortgage Company,2018-05-18,2028-06-06,24400000.0,0.049,24400000.0,true,true,0
+gs_2018_gs10,5A,Goldman Sachs Mortgage Company,2018-06-14,2028-07-06,23000000.0,0.051275,23000000.0,true,true,0
+gs_2018_gs10,16,Goldman Sachs Mortgage Company,2018-06-20,2028-07-06,21500000.0,0.04555,19243000.0,true,true,0
+gs_2018_gs10,5,Goldman Sachs Mortgage Company,2018-06-14,2028-07-06,20336000.0,0.051275,20336000.0,true,true,0
+gs_2018_gs10,2E,Goldman Sachs Mortgage Company,2018-02-23,2025-03-06,17826100.0,0.0492,17826100.0,true,true,5
+gs_2018_gs10,17,Goldman Sachs Mortgage Company,2018-06-28,2028-07-06,17250000.0,0.05079,14928900.0,false,true,0
+gs_2018_gs10,18,Goldman Sachs Mortgage Company,2018-07-03,2028-07-06,15000000.0,0.05093,14330400.0,true,true,0
+gs_2018_gs10,2C,Goldman Sachs Mortgage Company,2018-02-23,2025-03-06,14732600.0,0.0492,14732600.0,true,true,5
+gs_2018_gs10,19,Goldman Sachs Bank USA,2018-06-13,2028-04-06,14700000.0,0.04861,12650800.0,false,true,0
+gs_2018_gs10,2D,Goldman Sachs Mortgage Company,2018-02-23,2025-03-06,14260000.0,0.0492,14260000.0,true,true,5
+gs_2018_gs10,20,Goldman Sachs Mortgage Company,2018-04-17,2028-05-06,12700000.0,0.04884,12700000.0,true,true,0
+gs_2018_gs10,21,Goldman Sachs Mortgage Company,2018-05-02,2028-05-06,12400000.0,0.044695,12400000.0,true,true,0
+gs_2018_gs10,22,Goldman Sachs Mortgage Company,2018-04-24,2028-05-06,11620000.0,0.052425,10059500.0,false,true,0
+gs_2018_gs10,23,Goldman Sachs Mortgage Company,2018-03-15,2028-04-06,10850000.0,0.04969,10309600.0,true,true,0
+gs_2018_gs10,2B,Goldman Sachs Mortgage Company,2018-02-23,2025-03-06,10843200.0,0.0492,10843200.0,true,true,5
+gs_2018_gs10,24,Goldman Sachs Mortgage Company,2018-02-15,2033-03-06,10000000.0,0.053915,8657110.0,false,true,0
+gs_2018_gs10,25,Goldman Sachs Mortgage Company,2018-06-13,2028-07-06,9687000.0,0.05297,8933640.0,false,true,3
+gs_2018_gs10,27,Goldman Sachs Mortgage Company,2018-06-01,2028-06-06,9200000.0,0.05054,8464870.0,true,true,0
+gs_2018_gs10,26,Goldman Sachs Mortgage Company,2018-05-18,2028-06-06,9200000.0,0.047865,9200000.0,true,true,0
+gs_2018_gs10,29,Goldman Sachs Mortgage Company,2018-05-15,2028-03-06,9000000.0,0.05115,7780020.0,false,true,0
+gs_2018_gs10,28,Goldman Sachs Mortgage Company,2018-06-19,2028-07-06,9000000.0,0.047065,7713980.0,false,true,0
+gs_2018_gs10,30,Goldman Sachs Mortgage Company,2018-05-24,2028-06-06,7524000.0,0.047485,7154400.0,true,true,0
+gs_2018_gs10,31,Goldman Sachs Mortgage Company,2018-05-02,2028-05-06,7150000.0,0.05018,6807280.0,true,true,0
+gs_2018_gs10,32,Goldman Sachs Mortgage Company,2018-06-11,2028-07-06,6700000.0,0.04677,6700000.0,true,true,0
+gs_2018_gs10,33,Goldman Sachs Mortgage Company,2018-06-08,2028-07-06,6150000.0,0.048455,5535490.0,true,true,0
+gs_2018_gs10,7B,GSMC,2026-05-06,2027-12-06,5679350.0,0.04524,5679350.0,true,true,A
+gs_2018_gs10,2A,GSMC,2018-02-23,2025-03-06,5463160.0,0.0492,5463160.0,true,true,5
+gs_2018_gs10,6A,GSMC,2018-06-20,2028-04-06,4837200.0,0.049405,4686130.0,true,true,0
+gs_2018_gs10,7A,GSMC,2018-03-02,2027-12-06,1776500.0,0.04524,1776500.0,true,true,0

@@ -1,0 +1,2 @@
+selected_loans,selected_upb,target_upb,target_fill_pct,weighted_fico,weighted_ltv,weighted_dti,weighted_pd_12m,max_state_share,constraint_min_fico,constraint_max_ltv,constraint_max_dti,constraint_max_state_share,target_met,fico_constraint_met,ltv_constraint_met,dti_constraint_met,state_constraint_met
+1291,247680922.89999998,250000000.0,0.9907236916,797.5075397770976,44.854272051406355,21.88563660790526,6.1814740579279714e-06,0.12747436189402217,740.0,80.0,42.0,0.2,True,True,True,True,True

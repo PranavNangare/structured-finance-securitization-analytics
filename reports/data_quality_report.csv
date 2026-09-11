@@ -1,0 +1,22 @@
+category,check_name,status,observed,threshold,details
+Freddie Origination,Expected vintage coverage,PASS,"2006,2007,2008,2019,2020,2021,2022","2006,2007,2008,2019,2020,2021,2022",All selected vintages must be present.
+Freddie Origination,Total origination rows,PASS,350000,350000,Checkpoint from completed Phase 1 load.
+Freddie Performance,Total performance rows,PASS,17696387,17696387,Checkpoint from completed Phase 1 load.
+Freddie Keys,Duplicate origination loan IDs,PASS,0,0,Origination should be one row per loan.
+Freddie Keys,Duplicate performance loan-month keys,PASS,0,0,Performance key is loan_sequence_number + monthly_reporting_period.
+Freddie Keys,Unmatched performance loan IDs,PASS,0,0,Every performance loan should link to origination.
+Freddie Origination,FICO range,PASS,0,0,Missing=159 (0.0454%). Warnings require source-definition review.
+Freddie Origination,VantageScore 4.0 range,WARN,350000,0,Missing=0 (0.0%). Warnings require source-definition review.
+Freddie Origination,Original LTV range,WARN,11,0,Missing=0 (0.0%). Warnings require source-definition review.
+Freddie Origination,Original CLTV range,WARN,13,0,Missing=0 (0.0%). Warnings require source-definition review.
+Freddie Origination,Original DTI range,PASS,0,0,"Missing=3,261 (0.9317%). Warnings require source-definition review."
+Freddie Origination,Original UPB range,PASS,0,0,Missing=0 (0.0%). Warnings require source-definition review.
+Freddie Origination,Original interest rate range,PASS,0,0,Missing=0 (0.0%). Warnings require source-definition review.
+Freddie Performance,Negative current UPB,PASS,0,0,Do not alter records automatically; inspect source definitions first.
+Freddie Performance,Current rate outside 0-25%,WARN,36,0,Do not alter records automatically; inspect source definitions first.
+Freddie Performance,Negative loan age,PASS,0,0,Do not alter records automatically; inspect source definitions first.
+Freddie Performance,Negative remaining term,WARN,54,0,Do not alter records automatically; inspect source definitions first.
+SEC CMBS,CMBS asset rows,PASS,168,168,Loaded-record checkpoint; hierarchy interpretation is audited separately.
+SEC CMBS,CMBS property rows,PASS,168,168,Loaded-record checkpoint.
+SEC CMBS,Duplicate deal/asset keys,PASS,0,0,CMBS asset table key uniqueness.
+SEC CMBS,Duplicate property keys,PASS,0,0,CMBS deal + asset + property sequence uniqueness.

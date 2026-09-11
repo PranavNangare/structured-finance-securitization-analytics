@@ -1,0 +1,2 @@
+oot_rows,oot_events_12m,oot_event_rate_12m,oot_mean_pd_12m,oot_roc_auc,oot_average_precision,oot_brier_score,oot_calibration_ratio_pred_to_obs,discrimination_status
+185990,24,0.00012903919565568041,0.00019165054275717053,0.944639073809191,0.05881043503309017,0.00012716348447203182,1.4852118519752562,adequate_event_count

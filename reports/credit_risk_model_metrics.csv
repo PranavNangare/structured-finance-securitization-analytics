@@ -1,0 +1,2 @@
+validation_vintage,training_vintages,train_rows,test_rows,train_events_12m,test_events_12m,train_event_rate_12m,test_event_rate_12m,train_mean_pd_12m,test_mean_pd_12m,roc_auc,average_precision,brier_score,calibration_ratio_pred_to_obs,train_calibration_ratio,discrimination_status
+2022,"2006,2007,2008,2019,2020,2021",219314,45357,74,2,0.0003374157600517979,4.409462706969156e-05,0.00035112642583447147,0.00010992030675056889,0.994917870135597,0.006414070052799881,4.467369527980598e-05,2.4928276766427766,1.0406343372359632,too_few_events_for_stable_auc_ap

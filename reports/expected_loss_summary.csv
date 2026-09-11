@@ -1,0 +1,2 @@
+vintage_year,loans,ead,expected_loss_12m,weighted_pd_12m,historical_lgd,lgd_event_records,expected_loss_rate_12m
+2022,45357,13272970381.960001,857198.691803296,0.00014319452567397906,0.4510108180396898,10180,6.458228016302667e-05
